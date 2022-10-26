@@ -1,3 +1,5 @@
+Create a Cloudformation template to create a VPC, subnets(public and private), EC2 in public subnet, RDS in private subnet
+-------------------------------------------------------------------------------------------------------------------------------
 Parameters:
   EnvironmentName:
     Description: An environment name that is prefixed to resource names
